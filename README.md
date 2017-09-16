@@ -4,6 +4,8 @@
 
 ## Girl Develop It Philly - Intro to WordPress Slides
 
+###<a href="http://gdi.thetracyl.com/101/">gdi.thetracyl.com/101/</a>
+
 This class is for beginners wanting to learn about using WordPress as a framework and content management system for a website or blog. You can arrive knowing nothing about WordPress and will leave knowing how to start up, build and manage a site.
 
 The first hour of the first class will be a "Happiness Bar" dedicated to installing WordPress on students' hosting accounts. If you already have WordPress installed on a hosting account, or locally on your computer, feel free to arrive at 10:45.
