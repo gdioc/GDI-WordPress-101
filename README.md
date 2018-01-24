@@ -1,6 +1,6 @@
 # GDI-WordPress-101
 
-[![Deployment status from DeployBot](https://liljimmi.deploybot.com/badge/77558059942490/73882.svg)](http://deploybot.com)
+[![Deployment status from DeployBot](https://yikesinc.deploybot.com/badge/77558059942490/73882.svg)](http://deploybot.com)
 
 ## Girl Develop It Philly - Intro to WordPress Slides
 
