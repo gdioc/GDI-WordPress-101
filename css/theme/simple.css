@@ -65,7 +65,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #f05b62;
-  font-family: "Gotham-Round", Impact, sans-serif;
+  font-family: "Gotham-Round", sans-serif;
   font-weight: 300;
   line-height: 0.9em;
   letter-spacing: 0.02em;
@@ -176,7 +176,7 @@ body {
     background-repeat: no-repeat;
     background-size: auto 74%;
     background-position: 7px 0;
-    font-family:;
+    font-family: "Gotham";
 }
 .reveal footer .copyright{
     margin:7px 9px 0 110px;
